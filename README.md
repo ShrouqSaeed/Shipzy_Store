@@ -5,7 +5,7 @@ A simple C++ command-line store management system implementing basic OOP princip
 ---
 # Interface (UI) 📸
 
-[docs/home.png](https://github.com/ShrouqSaeed/Shipzy_Store/blob/master/docs/home.png?raw=true)
+└[docs/home.png](https://github.com/ShrouqSaeed/Shipzy_Store/blob/master/docs/home.png?raw=true)
 
 ---
 
